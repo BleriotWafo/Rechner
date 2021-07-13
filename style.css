@@ -1,0 +1,240 @@
+body {
+	background-color: #723e64;
+}
+.cadre_1 {
+	background-color: black;
+	height: 172px;
+	width: 103px;
+	display: block;
+	position: relative;
+	bottom: -200px;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%);
+
+}
+.ecran {
+	margin-top: 5px;
+	background-color: #77b5fe;
+	width: 95px;
+	height: 30px;
+	position: absolute;
+	display: block;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%);
+	font-size: 10px;
+
+}
+.btn {
+	left: -1px;
+	display: block;
+	position: absolute;
+}
+.btn_c {
+	background-color: orange;
+	font-weight: bold;
+	display: block;
+	position: absolute;
+	top: 35px;
+	left: 4px;
+	margin-top: 2px;
+	height: 22px;
+	width: 22px;
+	
+}
+.btn_paranthese {
+	display: block;
+	position: absolute;
+	top: 35px;
+	left: 27px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_paranthese2 {
+	display: block;
+	position: absolute;
+	top: 35px;
+	left: 52px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_division {
+	display: block;
+	position: absolute;
+	top: 35px;
+	left: 77px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_multiplication {
+	display: block;
+	position: absolute;
+	top: 59px;
+	left: 77px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_9 {
+	display: block;
+	position: absolute;
+	top: 59px;
+	left: 52px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_8 {
+	display: block;
+	position: absolute;
+	top: 59px;
+	left: 27px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_7 {
+	display: block;
+	position: absolute;
+	top: 59px;
+	left: 2px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_4 {
+	display: block;
+	position: absolute;
+	top: 83px;
+	left: 2px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_5 {
+	display: block;
+	position: absolute;
+	top: 83px;
+	left: 27px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_6 {
+	display: block;
+	position: absolute;
+	top: 83px;
+	left: 52px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_soustraction {
+	display: block;
+	position: absolute;
+	top: 83px;
+	left: 77px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_addition {
+	display: block;
+	position: absolute;
+	top: 107px;
+	left: 77px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_3 {
+	display: block;
+	position: absolute;
+	top: 107px;
+	left: 52px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_2 {
+	display: block;
+	position: absolute;
+	top: 107px;
+	left: 27px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_1 {
+	display: block;
+	position: absolute;
+	top: 107px;
+	left: 2px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_0 {
+	display: block;
+	position: absolute;
+	top: 131px;
+	left: 2px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_virgule {
+	display: block;
+	position: absolute;
+	top: 131px;
+	left: 27px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 22px;
+}
+.btn_egalite {
+	display: block;
+	position: absolute;
+	top: 131px;
+	left: 52px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 46px;
+	background-color: green;
+	font-weight: bold;
+}
+p {
+	display: flex;
+	position: absolute;
+	top: 159px;
+	left: 25px;
+	margin-top: 2px;
+	margin-left: 2px;
+	height: 22px;
+	width: 81px;
+	color: white;
+	font-size: 5px;
+	margin-bottom: 0;
+}
